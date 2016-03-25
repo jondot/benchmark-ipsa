@@ -1,5 +1,8 @@
 # benchmark-ipsa
 
+[![Build Status](https://travis-ci.org/jondot/benchmark-ipsa.svg?branch=master)](https://travis-ci.org/jondot/benchmark-ipsa.svg)
+[![Coverage Status](https://coveralls.io/repos/github/jondot/benchmark-ipsa/badge.svg?branch=master)](https://coveralls.io/github/jondot/benchmark-ipsa?branch=master)
+
 A iterations per second enhancement to Benchmark that includes memory allocations,
 based on [benchmark-ips](https://github.com/evanphx/benchmark-ips/).
 
