@@ -7,6 +7,10 @@ An iterations per second enhancement to Benchmark that includes memory allocatio
 based on [benchmark-ips](https://github.com/evanphx/benchmark-ips/). It makes benchmarks
 closer to what the `go bench` tool has.
 
+Memory allocation report is supported for **Ruby 2.1 and up**, for older ruby versions it
+degrades to the normal `benchmark-ips` behavior.
+
+
 
 ## Installation
 
