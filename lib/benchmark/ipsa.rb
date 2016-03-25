@@ -1,5 +1,6 @@
 require "benchmark/ipsa/version"
 require 'memory_profiler'
+require 'benchmark/ips'
 
 module Benchmark
   module Ipsa
