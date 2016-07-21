@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Benchmark IPS with allocations}
   spec.description   = %q{Benchmark IPS with allocations}
-  spec.homepage      = "https://github.com/jondot/benchmark-ips"
+  spec.homepage      = "https://github.com/jondot/benchmark-ipsa"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
